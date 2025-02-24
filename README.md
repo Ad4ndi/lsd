@@ -1,7 +1,4 @@
-# lsd v1.0 (Unstable) - low-level data copying utility 
-
-> [!WARNING]
-> The program is not fully tested. There may be bugs.
+# lsd v1.1 - low-level data copying utility 
 
 ### Installation
 ```
