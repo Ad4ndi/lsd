@@ -1,4 +1,4 @@
-# lsd v1.1 - low-level data copying utility 
+# lsd v1.2 - low-level data copying utility 
 
 ### Installation
 ```
